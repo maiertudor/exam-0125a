@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ExamMobile</string>
+    <string name="cars_available_d">Cars available: %d</string>
+    <string name="status_s">Status: %s</string>
+    <string name="submit">Submit</string>
+    <string name="enter_id_of_the_car">Enter id of the car</string>
+    <string name="enter_quantity">Enter quantity</string>
+    <string name="remove_all_my_cars">Remove all my cars</string>
+    <string name="cars_bought">Cars bought: %d</string>
+</resources>
